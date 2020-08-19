@@ -1,8 +1,8 @@
-<h2> Olá, Sejam bem-vindos! Jéssica Duarte </h2>
+<h2> Jéssica Duarte </h2>
 
 <h5> ✨ Programmer </h5>
-<h5> ✨ Looking for new projects to collaborate  </h5>
-<h5> ✨ Always learning somenthing nice </h5>
+<h5> ✨ Looking for new projects to collaborate </h5>
+<h5> ✨ Always learning something </h5>
 
 <!-- ### 
 **jduartesn/jduartesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
