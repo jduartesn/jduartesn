@@ -1,4 +1,4 @@
-<h2> Olá! Bem-vindos ao meu perfil! 👋 </h2>
+<h2> Olá, pessoal! Bem-vindos ao meu perfil! 👋 </h2>
 
 <!-- ### 
 **jduartesn/jduartesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
