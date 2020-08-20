@@ -1,4 +1,4 @@
-<h2> Jéssica Duarte </h2>
+<h1> Jéssica Duarte </h1>
 
 <h4> 💻 Developer </h4>
 <h4> 🔆 Looking for new projects to collaborate </h4>
