@@ -1,6 +1,6 @@
 <h2> Jéssica Duarte </h2>
 
-<h5> ✨ Programmer </h5>
+<h5> ✨ Developer </h5>
 <h5> ✨ Looking for new projects to collaborate </h5>
 <h5> ✨ Always learning </h5>
 
