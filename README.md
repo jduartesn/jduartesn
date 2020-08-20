@@ -4,6 +4,8 @@
 <h4> 🔆 Looking for new projects to collaborate </h4>
 <h4> 📚 Always learning </h4>
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jduartesn/)
+&nbsp;
 
 
 <!-- ### 
