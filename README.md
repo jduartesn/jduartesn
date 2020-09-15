@@ -4,8 +4,6 @@
 <h4> 🔆 Looking for new projects to collaborate </h4>
 <h4> 📚 Always learning </h4>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="jduartesn"><a class="LI-simple-link" href='https://br.linkedin.com/in/jduartesn?trk=profile-badge'>Jéssica Duarte</a></div>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 
 
