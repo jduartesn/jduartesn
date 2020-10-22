@@ -2,7 +2,6 @@
 
 <h4> 💻 Developer </h4>
 <h4> 🔆 Looking for new projects to collaborate </h4>
-<h4> 📚 Always learning </h4>
 
 
 
