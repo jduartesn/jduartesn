@@ -1,8 +1,8 @@
-<h1> Jéssica Duarte </h1>
+<h1><u><b> Jéssica Duarte </u></b></h1>
 
 <h4> 💻 Developer </h4>
 <h4> 🔆 Looking for new projects to collaborate </h4>
-
+<h4> ⚡ Always learning </h4>
 
 
 
