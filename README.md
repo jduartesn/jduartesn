@@ -4,6 +4,7 @@
 <h4> ⚡ Always learning </h4>
 <h4> 🔆 Looking for new projects to collaborate </h4>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jduartesn&layout=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### 
