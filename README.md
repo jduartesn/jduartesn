@@ -4,7 +4,7 @@
 <h4> ⚡ Always learning </h4>
 <h4> 🔆 Looking for new projects to collaborate </h4>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jduartesn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### 
 **jduartesn/jduartesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
