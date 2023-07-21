@@ -4,7 +4,7 @@
 <h4> ⚡ Always learning </h4>
 <h4> 🔆 Looking for new projects to collaborate </h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jduartesn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jduartesn)]
 
 <!-- ### 
 **jduartesn/jduartesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
